@@ -1,4 +1,4 @@
-# Quantum IT Innovation Website Testing
+# Quantum IT Innovation
 
 A comprehensive manual and functional testing project for the official website of [Quantum IT Innovation](https://quantumitinnovation.com/). The project includes a detailed test plan, test cases, bug reports, and screenshots for identified UI and functional issues.
 
